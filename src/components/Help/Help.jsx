@@ -79,7 +79,7 @@ export default function Global() {
           {/* Button */}
           <button className="mt-8 bg-[#0B4F6C] text-white px-8 py-3 rounded-full font-medium hover:bg-[#08384E] hover:shadow-lg transition">
              <NavLink to='/gallary'>
-              Read More
+              Watch Our Work
               </NavLink> 
           </button>
         </div>

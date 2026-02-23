@@ -56,7 +56,7 @@ export default function Footer() {
           <h3 className="footer-title">Office Address</h3>
           <ul className="space-y-4 mt-6 text-sm">
             <li className="flex gap-3">
-              <FaMapMarkerAlt className="text-orange-500 mt-1" />
+              <FaMapMarkerAlt className="text-orange-500 mt-1 size-5" />
               <span>
                 Office A-219, City Tower Plot No. 55, Opp. D-Mart, Sector-15,
                 CBD Belapur, Navi Mumbai – 400614
@@ -87,7 +87,6 @@ export default function Footer() {
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
-            {/* <iframe src="" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */}
           </div>
         </div>
       </div>
